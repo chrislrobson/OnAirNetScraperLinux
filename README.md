@@ -57,4 +57,4 @@ If you do not have a QRZ.COM subscription account, the above configuration is no
 
 The Flutter framework version of Net Scraper ported to Mac/Linux/Windows desktop systems is no longer supported.
  
-If your interested in On-Air Net Scraper for smartphones or tablet devices, simple search the App stores for "On-Air Net Scraper".  It is available on both the Apple and Android App stores for use on smartphones and tablet devices.
+If you're interested in On-Air Net Scraper for smartphones or tablet devices, simple search the App stores for "On-Air Net Scraper".  It is available on both the Apple and Android App stores for use on smartphones and tablet devices.
